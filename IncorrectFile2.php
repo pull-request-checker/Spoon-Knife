@@ -4,7 +4,7 @@ namespace AppBundle;
 
 class MyClass
 {
-  function MyFunction()
+    public function myFunction()
     {
 
     }
